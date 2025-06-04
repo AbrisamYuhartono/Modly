@@ -63,3 +63,8 @@ Fitur utama yang akan dikembangkan dalam MVP:
 
 ## 💡 Visi Modly
 Menjadi pionir dalam personal fashion assistant berbasis AI di Indonesia yang tidak hanya fungsional tapi juga membangun kepercayaan diri dan ekspresi diri pengguna melalui pakaian.
+
+## Link Menuju Modly
+```
+https://modlywirus01.netlify.app
+```
