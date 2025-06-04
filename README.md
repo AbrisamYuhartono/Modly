@@ -1,4 +1,4 @@
-# Modly 👗✨  
+# Modly (Modern Stylish Friendly) 👗✨  
 _Fashion that fits **you**._
 
 ## 👥 Co-Founders
